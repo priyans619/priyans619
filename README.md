@@ -1,3 +1,4 @@
+### Hi there 👋, Curious
 #### Design and Development
 
 Skills:  REACT / NODE / JS / HTML / CSS
