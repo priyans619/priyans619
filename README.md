@@ -1,4 +1,4 @@
-### *Hi there 👋, I am Curious*
+### *Hi there 👋, Nice to have you here*
 #### Design and Development
 
 <br>**Tech Stack**:</br>
