@@ -10,4 +10,4 @@
 - **ML, Web 3.0 and Game Development Enthusiast.** 
 
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/priyansh-bhardwaj-05959817b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/____priyans619/)
-- Check my Art page: [Artology.Boom](https://www.instagram.com/artology.boom/)
+
