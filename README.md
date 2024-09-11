@@ -1,6 +1,5 @@
 ### *Hi there 👋, Nice to have you here*
 #### Design and Development
-
 I have experience building professional websites and front-end applications🖥, with a proven track record in the information technology and services industry✍️ . My skill set includes front-end technologies🏢 such as Javascript, React.js/Next.Js, Redux, EcmaScript, HTML, CSS, Tailwind, and NodeJs/NoSql/Express for Backend. Additionally, I am proficient in tools like React Native, and Expo for creating cross-platform applications and have experience working both Web and mobile-based applications🖥.
 
 Responsibilities- Developing new user-facing features using React.js Building reusable components and front-end libraries for future use Translating designs into high quality code Optimizing components🛠️ for maximum performance Optimizing the application. Troubleshooting the bugs🐞
@@ -9,8 +8,7 @@ Skills- Strong proficiency in JavaScript and the JavaScript object model In-dept
 
 Apart from my professional journey, I am a Designer📽 and enthusiastic to learn new tech. I have created 15+ mini & major projects💼 on Reactjs and other technologies. Also deployed and have live-hosted projects📝 and check out my Artpage [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/artology.boom/).
 
-<br>**Tech Stack**:</br>
-<br>
+**Tech Stack**:</br>
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
